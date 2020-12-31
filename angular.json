@@ -103,9 +103,16 @@
           "options": {
             "browserTarget": "new-years-resolutions:build"
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
   },
-  "defaultProject": "new-years-resolutions"
+  "defaultProject": "new-years-resolutions",
+  "cli": {
+    "analytics": false
+  }
 }

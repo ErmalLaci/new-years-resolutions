@@ -1,3 +1,9 @@
-div {
-  margin: 50px;
+.overview-container {
+  margin: 10px;
+}
+
+.overview-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }

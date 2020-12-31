@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "new-years-resolutions"
+  },
+  "targets": {
+    "new-years-resolutions": {
+      "hosting": {
+        "new-years-resolutions": [
+          "new-years-resolutions"
+        ]
+      }
+    }
+  }
+}

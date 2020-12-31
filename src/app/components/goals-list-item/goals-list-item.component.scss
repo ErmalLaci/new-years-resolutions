@@ -1,0 +1,14 @@
+.goal-container {
+    padding: 5px;
+}
+
+.goal-row {
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.progression-row {
+    justify-content: space-between;
+}
